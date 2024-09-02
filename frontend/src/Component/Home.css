@@ -1,0 +1,62 @@
+.body{
+    background-image: url('./photo/forest.jpg');
+    max-width:100%;
+    height: 655px;;
+    background-position: center;
+    background-size: cover;
+}
+.texte1{
+    color: white;
+    font-size: 25px;
+}
+
+.texte2{
+    color: white;
+    font-size: 29px;
+}
+.texte{
+    padding-top: 198px;
+    padding-bottom: 58px;
+    text-align: center;
+}
+.partie2{
+    padding-left: 35px;
+    padding-right: 35px;
+    position: relative;
+    top: -55px;
+}
+.controlnav{
+    background: rgb(255, 255, 255);
+    border-radius: 9px;
+    padding: 18px;
+    
+}
+.controlnav1a{
+    text-align: center;
+    padding: 8px;
+}
+.fa-alipay,.fa-ankh,.fa-airbnb,.fa-accusoft{
+    font-size: 45px;
+    color:rgb(102, 170, 0)
+}
+.Home{
+    background: green;
+}
+
+.partiea{
+    font-size: 40px;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.w3-image{max-width:100%;height:auto}
+.partie5{
+    padding-top: 25px;
+    padding-bottom: 35px;
+
+}
+.IMG2,.IMG3{
+    padding-top: 45PX;
+}

@@ -1,0 +1,29 @@
+
+.w3-imagex{max-width:100%;height:auto;
+border-radius: 18px;
+padding: 8px;}
+
+.w3-half{
+    float:left;
+    width:50%;
+}
+.contenuhalf{
+    padding-top: 25px;
+    padding-left: 25px;
+}
+.car{
+    background: green;
+    
+}
+.controlcol2{
+    display: flex;
+    box-shadow:  1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    border-radius: 8px;
+}
+.cont{
+    padding: 18px;
+   
+}
+.titre{
+    color: orange;
+}
